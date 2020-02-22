@@ -3,7 +3,7 @@
 增加HTML/CSS的学习计划
 
 2020.2.22 by XuWenchao
-练习使用git,完成GitHub注册
+练习使用git,完成GitHub注册,创建了一个分支dev
 
 2020.2.19 by XuWenchao
 在B站的全栈之巅作品"Element UI + NodeJs(Express)全栈开发后台管理界面"视频基础上，本版本增加以下内容：
