@@ -1,6 +1,6 @@
 # sblog
 2020.2.22
-增加HTML/CSS的学习计划
+增加HTML/CSS的学习计划,下周开始
 
 2020.2.22 by XuWenchao
 练习使用git
