@@ -1,4 +1,7 @@
 # sblog
+2020.2.22 by XuWenchao
+练习使用git
+
 2020.2.19 by XuWenchao
 在B站的全栈之巅作品"Element UI + NodeJs(Express)全栈开发后台管理界面"视频基础上，本版本增加以下内容：
 1、ListArticle页面增加了<el-pagination>组件，用于数据增多后的分屏显示
