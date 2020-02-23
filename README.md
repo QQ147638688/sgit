@@ -1,6 +1,7 @@
 # sblog
-2020.2.22
-增加HTML/CSS的学习计划,创建新的分支feature1
+
+2020.2.23
+变更HTML/CSS的学习计,创建新的分支feature1,作为快速示例
 
 2020.2.22 by XuWenchao
 练习使用git,完成GitHub注册,创建了一个分支dev,再次修改readme
